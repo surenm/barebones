@@ -1,0 +1,11 @@
+This is a barebones rails project that uses 
+
+Mongoid - for database - no activerecord included
+Resque - for background processing
+Unicorn - for webserver 
+Foreman - for running daemons nicely
+
+
+These are my commonly used modules and I use this project whenever I am spinning out a new repository instead of starting from rails new.
+
+TODO: Intending to add devise, capistrano for later.
