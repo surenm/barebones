@@ -5,4 +5,4 @@
 require 'resque/tasks'
 require File.expand_path('../config/application', __FILE__)
 
-GoyakaRadios::Application.load_tasks
+App::Application.load_tasks
